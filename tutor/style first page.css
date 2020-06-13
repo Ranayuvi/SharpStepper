@@ -1,0 +1,246 @@
+*{
+	background-image: url("../tutor/fourth.jpg");
+}
+h1	{
+ background-image: url("../tutor/fourth.jpg");
+    color: purple;
+    height: 300px
+	width:500px
+	margin:auto center;
+	font-style: italic ;
+	font-size: 100px;
+	position: relative;
+	animation:heading;
+	animation-duration: 4s;
+	animation-fill-mode: forwards;
+	animation: 
+	 
+	
+}
+
+@keyframes heading {
+	0%{top:-50px}
+  100%{top:10px;}
+}
+
+
+
+
+#go{
+	margin-left: 0%;
+}
+
+
+
+
+
+h2{
+color:black;
+
+
+
+
+}
+
+
+
+.clr
+{
+	clear:both;
+}
+
+
+a
+{
+	text-decoration: none;
+	color:white;
+}
+
+
+
+a:hover
+{
+color :	red;
+
+}
+
+
+a:active
+{
+	color:yellow;
+}
+
+
+
+
+
+.first  
+{
+	font-color:white;
+	margin:1px ;
+	padding: 10px;
+	border: 50px black dashed;
+	border-radius:50px;
+	font-size:20px;
+	list-style: square;
+	line-height: 1.9em;
+}
+
+
+
+
+.first li
+ {
+	
+	padding: left:0px;
+	padding: bottom:6px;
+	border-bottom: dashed 1px yellow; 
+
+
+}
+
+
+
+ 
+
+.first ul 
+{
+	padding: 0;
+	list-style: square;
+	color:purple;
+
+}
+
+
+
+h2
+{
+	background: black;
+	color:orange;
+
+}
+
+
+
+
+
+.my-form {
+	margin-bottom: 50px;
+	padding:200px;
+	border-radius: 15px;
+}
+
+
+
+.my-form .form-group
+{
+	border-top: 500px;
+	padding-bottom:15px;
+}
+
+
+
+.form-group label
+{
+	display:inline block;
+	color: yellow;
+	font-size: 20px;
+}
+
+.my-form input[type="text"], .my-form textarea
+{
+	padding:8px;
+	width: 100%;
+
+}
+
+
+.my-form input[type="submit"]
+{
+
+color: black;
+font-size: 18px;
+}
+
+
+
+
+
+.block
+{ float: left;
+	width:33.3%;
+	border:5px dashed orange;
+	padding: 20px;
+	box-sizing:border-box;
+
+}
+.block{
+	color :white;
+	font-size:20;
+}
+.main-block{
+	color:white;
+}
+.navbar
+{
+	color:yellow;
+}
+.navbar ul
+{
+	padding: 0;
+	list-style: none;
+}
+
+.navbar li
+{
+	display: inline;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 60px;
+}
+.main-footer
+{
+	color:yellow;
+	background:black;
+	text-align: center;
+}
+ .myself{
+ 	color:yellow;
+ 	background: black;
+ }
+
+
+.navi ul
+{ float:center;
+	list-style: none;
+
+	
+}
+
+
+.navi li {
+	background-color: black;
+
+}
+a{
+	color: white;
+	font-:  20;
+}
+
+
+.cantainer
+{
+	background-image: url("../tutor/third.jpg");
+	background position:; 
+	height:3500px;
+	width: 300
+	margin-bottom: 30px;
+	text-align: center;
+	border:5px black dashed;
+	padding:20px red  dotted ;
+}
+
+
+/*Second Page*/
+
+
